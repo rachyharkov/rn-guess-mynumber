@@ -40,6 +40,6 @@ const styles = StyleSheet.create({
   },
   // for iOS
   pressed: {
-    opacity: 0.75,
+    opacity: 0.75 
   },
 });
